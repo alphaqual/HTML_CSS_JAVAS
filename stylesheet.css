@@ -136,3 +136,24 @@ p {
 #home-info .info-content p {
     padding-bottom: 30px;
 }
+
+#feature
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 20px;
+    background: aqua;
+}
+
+.box-i{
+    float: left;
+    width: 33.3%;
+    padding: 20px;
+    background: azure;
+}
+
+#ft{
+    text-align: center;
+    background-color: chocolate;
+    color: darkred;
+}
